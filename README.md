@@ -1,0 +1,2 @@
+# pitagorapp
+calcolo dell'ipotenusa
